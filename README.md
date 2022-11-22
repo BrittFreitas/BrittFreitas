@@ -56,7 +56,7 @@ Outside of work you can catch me struggling at my local climbing gym or binge wa
 <br/>  
 
 
-## Spotify Listening  
+## Current Bops 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=brittanyfreitas4&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
