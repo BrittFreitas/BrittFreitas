@@ -19,7 +19,7 @@ Outside of work you can catch me struggling at my local climbing gym or binge wa
 💜 I'm currently learning: React Native and practicing my JS skills  
   
 
-💜 I'm currently job hunting! for my first junior dev gig!   
+💜 I'm currently job hunting for my first junior dev role!!    
   
 
 <br/>  
