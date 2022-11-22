@@ -7,7 +7,7 @@ I have a tenacious mind and an eye for design. I enjoy seeing projects through f
 
 Outside of work you can catch me struggling at my local climbing gym or binge watching Architectural Digest vids on Youtube.
 
-
+<div> <div/>
   
   
 
