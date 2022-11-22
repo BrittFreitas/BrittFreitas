@@ -15,13 +15,13 @@ Outside of work you can catch me struggling at my local climbing gym or binge wa
   
   
   
-💜 What I'm working on: A therapy practice client site built in ReactJS   
+💜**What I'm working on:** A therapy practice client site built in ReactJS   
   
 
-💜 What I'm learning: React Native and practicing my JS skills  
+💜**What I'm learning:** React Native and practicing my JS skills  
   
 
-💜 What I'm up to: Job hunting for my first junior dev gig!! 
+💜 **What I'm up to:** Job hunting for my first junior dev gig!! 
   
 
 <br/>  
