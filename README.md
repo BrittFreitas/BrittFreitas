@@ -1,11 +1,11 @@
-# <div align="center">Welcome friend! I'm Britt (she/her) </div>  
+# <div align="center">Welcome, friend! I'm Britt (she/her) </div>  
   
 
 I’m a web developer and social worker with an aim to leverage technologies to make the helping professions increasingly impactful. I've found a love for merging my clinical social work experience with my technical skillset to create meaningful web applications and tools that fill in the gaps in our social service sector. 
 
 I have a tenacious mind and an eye for design. I enjoy seeing projects through from design to deployment and am always open to connecting with new faces to continue growing my skills. 
 
-Outside of work you can catch me covered in chalk at my local climbing gym, or binge watching Architectural Digest vids on Youtube.
+Outside of work you can catch me struggling at my local climbing gym or binge watching Architectural Digest vids on Youtube.
 
 
   
