@@ -13,13 +13,13 @@ Outside of work you can catch me struggling at my local climbing gym or binge wa
 
 
 
-💜 I’m currently working on: A therapy practice site & a social service navigation app   
+💜 What I'm working on: A therapy practice site & a social service navigation app   
   
 
-💜 I'm currently learning: React Native and practicing my JS skills  
+💜 What I'm learning: React Native and practicing my JS skills  
   
 
-💜 I'm currently job hunting for my first junior dev role!!    
+💜 What I'm up to: Job hunting for my first junior dev gig!! 
   
 
 <br/>  
