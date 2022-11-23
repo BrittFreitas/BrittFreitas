@@ -1,9 +1,5 @@
 # <div align="center">Welcome, friend! I'm Britt (she/her) </div>  
 
-# <div align="center"> 
-  <a href="https://www.brittanyfreitas.com/">Check out my work</a>
- 
-</div>  
   
 
 I’m a web developer and social worker with an aim to leverage technologies to make the helping professions increasingly impactful. I've found a love for merging my clinical social work experience with my technical skillset to create meaningful web applications and tools that fill in the gaps in our social service sector. 
