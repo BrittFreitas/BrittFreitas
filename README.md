@@ -1,7 +1,7 @@
 # <div align="center">Welcome, friend! I'm Britt (she/her) </div>  
 
 # <div align="center"> 
-  <a href="https://www.brittanyfreitas.com/">Portfolio Site |</a>
+  <a href="https://www.brittanyfreitas.com/">Check out my work</a>
  
 </div>  
   
