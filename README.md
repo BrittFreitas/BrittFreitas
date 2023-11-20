@@ -1,4 +1,4 @@
-# <div align="center">Welcome, friend! I'm Britt (she/her) </div>  
+# <div align="center">Welcome, I'm Britt (she/her) </div>  
 
   
 
